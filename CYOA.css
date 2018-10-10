@@ -1,0 +1,48 @@
+head{
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-image: url(manos-gkikas-422953-unsplash.jpg);
+}
+.story{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 250;
+    margin-right: 250;
+    color:burlywood;
+    margin-left: 300;
+    margin-right: 300;
+}
+.hotdog{
+    font-size: 25px;
+}
+.nohotdog{
+    font-size: 25px;
+}
+.ketchup{
+    font-size: 25px;
+}
+.mustard{
+    font-size: 25px;
+}
+.pet{
+    font-size: 25px;
+}
+.nopet{
+    font-size: 25px;
+}
+.lastpage{
+    font-size: 25px;
+}
+.fin{
+    font-size: 30;
+    color:burlywood;
+}
+.homepage{
+    font-size: 30;
+}
+.cite{
+    color: aqua;
+    margin-top: 400;
+}
